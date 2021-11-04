@@ -31,5 +31,8 @@ const cards = [
    role:"Graphic Designer", 
    image:"img/barbare-ramos-graphic-designer.jpg"},
       
+];
 
-]
+console.log(cards);
+
+// stampiamo le card del team (se ci riusciamo)
