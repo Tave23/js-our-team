@@ -82,7 +82,7 @@ function newCard() {
       newCardImage.append(imageCard);
       
       // parte testuale
-      const newCardImage = document.createElement('div');
+      const newCardtext = document.createElement('div');
    }
 
 }
