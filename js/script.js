@@ -12,6 +12,8 @@
 const container = document.querySelector('.team-container');
 let newHtml = '';
 
+
+
 const cards = [
 // membro 1
    {name:"wayne Barnett", 
